@@ -10,6 +10,3 @@ UML Sequence Diagram: <br>
 
 ### 🛠️ Tech Stack
 [![Java](https://skills.thijs.gg/icons?i=java)](https://oracle.com/java/)
-
-### ©️ Copyright & License
-[MIT](https://github.com/paraskevasleivadaros/SE-Exercise-3/blob/master/LICENSE)
